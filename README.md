@@ -1,6 +1,4 @@
-# Hi there!
-
-## My name is Cannon Wilson. 
+## Hi there! My name is Cannon Wilson. 
 
 ##### I am an AR/VR enthusiast seeking a master's degree in computer science. My goal is to create immersive mixed reality experiences that make exercise fun. I am also interested in using machine learning for gesture recognition in order to give those experiences incredibly natural and intuitive controls.
 
