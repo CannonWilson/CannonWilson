@@ -1,6 +1,6 @@
 ## Hi there! My name is Cannon Wilson. 
 
-I am an AR/VR enthusiast seeking a master's degree in computer science. This is a new GitHub account I made solely to show those programs some of the work I've done in the past.
+I am an AR enthusiast seeking a master's degree in computer science. This is a new GitHub account I made solely to show those programs some of the work I've done in the past.
 
 My goal is to create immersive mixed reality experiences that make exercise fun. I am also interested in using machine learning for gesture recognition in order to give those experiences incredibly natural and intuitive controls.
 
