@@ -1,9 +1,9 @@
 ## Hi there! My name is Cannon Wilson. 
 
-I am an AR enthusiast seeking a master's degree in computer science. This is a new GitHub account I made solely to show those programs some of the work I've done in the past.
+I am a mixed reality (MR) enthusiast seeking a master's degree in computer science. This is a new GitHub account I made to show those programs some of the work I've done in the past.
 
-My goal is to create immersive mixed reality experiences that make exercise fun. I am also interested in using machine learning for gesture recognition in order to give those experiences incredibly natural and intuitive controls.
+My goal is to create immersive mixed reality experiences that make exercise fun.
 
-I have completed three AR/VR projects for my Oculus Quest 2, including: VR meditation, AR basketball, and AR obstacle courses. I have completed two mobile projects for my iPhone, including: hand pose recognition using ML and a PDF viewer with swipe action controls. Finally, I am involved with a volunteer project to create engaging games to teach English to kids.
+I have completed three projects for my Oculus Quest 2, including: VR meditation, AR basketball, and AR obstacle courses. I am also involved with a volunteer project creating an engaging game to teach English to kids and refugees, as well as a side-project to build a website that shows off local artists and galleries in the Amarillo area.
 
 Please send me an email at CannonGWilson@gmail.com if you are interested in collaborating!
