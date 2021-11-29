@@ -6,4 +6,4 @@ My goal is to create immersive mixed reality experiences that make exercise fun.
 
 I have completed three projects for my Oculus Quest 2, including: VR meditation, AR basketball, and AR obstacle courses. I am also involved with a volunteer project creating an engaging game to teach English to kids and refugees, as well as a side-project to build a website that shows off local artists and galleries in the Amarillo area.
 
-Please send me an email at CannonGWilson@gmail.com if you are interested in collaborating!
+If you haven't yet, make sure to check out CannonWilson.com. Please send me an email at CannonGWilson@gmail.com if you are interested in collaborating!
