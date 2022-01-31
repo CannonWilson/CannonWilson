@@ -10,4 +10,4 @@ VR Meditation:
 
 ![End Meditation](https://j.gifs.com/Rl5x6E.gif)
 
-This is just a taste of the projects I've made, so check out my other repos if you're interested. If you haven't yet, check out CannonWilson.com for a visual introduction to who I am. Please send me an email at CannonGWilson@gmail.com if you are interested in collaborating!
+This is just a taste of the projects I've made, so check out my other repos if you're interested. If you haven't yet, check out [CannonWilson.com](cannonwilson.com) for a visual introduction to who I am. Please send me an email at CannonGWilson@gmail.com if you are interested in collaborating!
