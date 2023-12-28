@@ -19,4 +19,4 @@ OpenMP and CUDA Particle Simulation with VR Viewing:
 
 ![Particle Simulator](https://github.com/CannonWilson/OpenMP-CUDA-Particle-Simulation/blob/85b320c77223fd63c605115e5136cf370c69d223/Videos/Positions.gif)
 
-This is just a taste of the projects I've made, so check out my other repos if you're interested. Please send me an email at CannonGWilson@gmail.com if you have any questions~
+This is just a taste of the projects I've made, so check out my other repos if you're interested. Please send me an email at CannonGWilson@gmail.com if you have any questions!
