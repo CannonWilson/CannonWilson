@@ -1,6 +1,6 @@
 ## Hi there! 
 
-My name is Cannon Wilson. I am a computer science master's student at UW-Madison. I've got a bit of exposure to lots of different areas of computer science so I'm familiar with these areas:
+My name is Cannon Wilson. I am a computer science master's student at UW-Madison. I've got a bit of exposure to lots of different areas of computer science so I'm familiar with these things:
 
 - Web Development (HTL/CSS/JS, MongoDB, SQL, Express, Node, Flask, React, Redux)
 - Introductory iOS Development (XCode, Swift, SwiftUI, RealityKit)
